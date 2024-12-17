@@ -1,6 +1,6 @@
 # Belajar Git dan Github dengan vscode
 
-Playground untuk belajar nge-git (dibantu dengan vscode - opsional) - Update Sedikit Banyak
+Playground untuk belajar nge-git (dibantu dengan vscode - opsional) - Update Sedikit Banyaks
 
 ## Todo List
 
