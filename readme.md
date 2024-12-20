@@ -8,3 +8,4 @@ Playground untuk belajar nge-git (dibantu dengan vscode - opsional) - Update Sed
 - Pull
 - Fetch
 - Merge
+- test
