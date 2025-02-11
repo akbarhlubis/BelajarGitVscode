@@ -1,3 +1,5 @@
 newfile1
 
 add text
+
+news
